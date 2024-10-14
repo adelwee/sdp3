@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Adapter Pattern/Adapter Pattern.iml" filepath="$PROJECT_DIR$/Adapter Pattern/Adapter Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bridge Pattern/Bridge Pattern.iml" filepath="$PROJECT_DIR$/Bridge Pattern/Bridge Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composite Pattern/Composite Pattern.iml" filepath="$PROJECT_DIR$/Composite Pattern/Composite Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorater Pattern/Decorater Pattern.iml" filepath="$PROJECT_DIR$/Decorater Pattern/Decorater Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade Pattern/Facade Pattern.iml" filepath="$PROJECT_DIR$/Facade Pattern/Facade Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flyweight Pattern/Flyweight Pattern.iml" filepath="$PROJECT_DIR$/Flyweight Pattern/Flyweight Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy Pattern/Proxy Pattern.iml" filepath="$PROJECT_DIR$/Proxy Pattern/Proxy Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdp3.iml" filepath="$PROJECT_DIR$/sdp3.iml" />
+    </modules>
+  </component>
+</project>
